@@ -1,0 +1,16 @@
+[
+{
+  "modid": "electricalengineering",
+  "name": "Electrical Engineering",
+  "description": "A mod about technology and electricity",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["minecreatr"],
+  "credits": "People and things",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
